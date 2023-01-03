@@ -1,0 +1,15 @@
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\bin\Debug\net6.0\Task66.exe
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\bin\Debug\net6.0\Task66.deps.json
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\bin\Debug\net6.0\Task66.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\bin\Debug\net6.0\Task66.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\refint\Task66.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw9\Task66\obj\Debug\net6.0\ref\Task66.dll

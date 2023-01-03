@@ -27,11 +27,11 @@ int GetNumber(string message)
 }
 
 void FinalCountdown(int number)
-{    
-    if (number >1)
+{
+    if (number > 1)
     {
         Console.Write($"{number}, ");
-        FinalCountdown(number-1);
+        FinalCountdown(number - 1);
     }
     else
     {
